@@ -12,10 +12,10 @@ https://cs50.harvard.edu/web/2020/projects/0/search/
 
 All pages are responsive HTML5 web pages created with a simple design and works as a basic but similar to the google web page.
 
-index.html contains code of the main page(Google Web Search).
+[index.html](https://github.com/aharonmathews/CS50/blob/main/index.html) contains code of the main page(Google Web Search).
 
-images.html contains code of the images page(Google Images Search).
+[images.html](https://github.com/aharonmathews/CS50/blob/main/images.html) contains code of the images page(Google Images Search).
 
-advanced.html contains code of the advanced page(Google Advanced Search).
+[advanced.html](https://github.com/aharonmathews/CS50/blob/main/advanced.html) contains code of the advanced page(Google Advanced Search).
 
-style.css contains CSS code used to design all three web pages(index.html, images.html, advanced.html)
+[style.css](https://github.com/aharonmathews/CS50/blob/main/style.css) contains CSS code used to design all three web pages(index.html, images.html, advanced.html)
